@@ -11,6 +11,7 @@
 		53558E8E293E6F9300ECD966 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53558E8D293E6F9300ECD966 /* ContentView.swift */; };
 		53558E90293E6F9500ECD966 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53558E8F293E6F9500ECD966 /* Assets.xcassets */; };
 		53558E93293E6F9500ECD966 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53558E92293E6F9500ECD966 /* Preview Assets.xcassets */; };
+		53558E9C293FC55800ECD966 /* scoresView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53558E9B293FC55800ECD966 /* scoresView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		53558E8D293E6F9300ECD966 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		53558E8F293E6F9500ECD966 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53558E92293E6F9500ECD966 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		53558E9B293FC55800ECD966 /* scoresView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoresView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				53558E8B293E6F9300ECD966 /* SpeedTapGameApp.swift */,
 				53558E8D293E6F9300ECD966 /* ContentView.swift */,
+				53558E9B293FC55800ECD966 /* scoresView.swift */,
 				53558E8F293E6F9500ECD966 /* Assets.xcassets */,
 				53558E91293E6F9500ECD966 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53558E9C293FC55800ECD966 /* scoresView.swift in Sources */,
 				53558E8E293E6F9300ECD966 /* ContentView.swift in Sources */,
 				53558E8C293E6F9300ECD966 /* SpeedTapGameApp.swift in Sources */,
 			);
